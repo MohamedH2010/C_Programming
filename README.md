@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="hello_world.gif" alt="Hello World GIF">
 
 <h3 align="center">
   Welcome to Mohamed Hamdy's profile!
