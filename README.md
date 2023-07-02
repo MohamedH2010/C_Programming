@@ -1,4 +1,4 @@
-<img width="250" align="right" src="hello_world.gif" alt="Hello World GIF">
+<img width="250" align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 <h3 align="center">
   Welcome to Mohamed Hamdy's profile!
