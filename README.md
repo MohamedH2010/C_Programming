@@ -2,7 +2,7 @@
 
 <h3 align="center">
   Welcome to Mohamed Hamdy's profile!
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://img.shields.io/badge/Hello-World!-brightgreen?style=flat&logo=c&logoColor=white)" width="28">
+  <img src="https://img.shields.io/badge/Hello-World!-brightgreen?style=flat&logo=c&logoColor=white" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
