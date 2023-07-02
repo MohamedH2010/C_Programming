@@ -30,7 +30,4 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat
 
-<br>
-<a href="https://komarev.com/ghpvc/?username=mohamedhamdy&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohamedhamdy&style=for-the-badge">
-</a>
+
